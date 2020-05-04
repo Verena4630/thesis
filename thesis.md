@@ -1,2 +1,2 @@
 # My great thesis
-Author: V.Schrader
+Author: Verena Schrader
